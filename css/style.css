@@ -41,7 +41,7 @@ nav ul{
 
 .nav-bar a {
     color: #F9FAF8;
-    transition: color 0.2s ease;
+    transition: all 0.5s ease;
 }
 
 a{
@@ -52,7 +52,7 @@ a{
     padding: 3px 15px;
     list-style-type: none;
     border: solid 1px #FFFFFF;
-    transition: background 0.2s ease;
+    transition: all 0.2s ease;
     text-transform: uppercase;
 }
 
@@ -64,9 +64,6 @@ a{
     background-color: #F9FAF8;
 }
 
-.nav-bar a{
-    transition: color
-}
 /* .container{
     max-width: 1300px;
     padding: 0 15px;
